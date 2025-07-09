@@ -19,7 +19,7 @@ public:
         helper(root->left,depth,count);
         helper(root->right,depth,count);
 
-        count--;
+       
         
     }
 
