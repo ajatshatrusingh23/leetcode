@@ -11,7 +11,7 @@ public:
         long long n = nums.size();
         long long m = sum/2;
 
-        vector<vector<long long>>dp(n+1,vector<long long>(m+1,0));
+        vector<vector<unsigned long>>dp(n+1,vector<unsigned long>(m+1,0));
 
         dp[0][0] = 1;
 
@@ -22,7 +22,7 @@ public:
                 }
 
                 else{
-                    dp[i][j] = dp[i-1][j] ||dp[i-1][j-nums[i-1]];
+                    dp[i][j] = dp[i-1][j] +dp[i-1][j-nums[i-1]];
                 }
             }
         }
