@@ -1,15 +1,15 @@
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {
-        long long sum = 0;
+        int sum = 0;
         for(int i = 0;i<nums.size();i++){
             sum += nums[i];
         }
 
         if(sum%2 != 0) return false;
 
-        long long n = nums.size();
-        long long m = sum/2;
+        int n = nums.size();
+        int m = sum/2;
 
         vector<vector<unsigned long>>dp(n+1,vector<unsigned long>(m+1,0));
 
