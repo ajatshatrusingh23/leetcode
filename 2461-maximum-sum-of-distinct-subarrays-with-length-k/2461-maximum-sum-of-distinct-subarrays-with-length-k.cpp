@@ -1,23 +1,34 @@
 class Solution {
 public:
     long long maximumSubarraySum(vector<int>& nums, int k) {
-        int n = nums.size();
+         unordered_set<int> st;
+    long long currSum = 0, maxSum = 0;
+    int left = 0;
 
-        int windowsum = 0;
+    for (int right = 0; right < nums.size(); right++) {
 
-        for(int i = 0;i<k;i++){
-            windowsum += nums[i];
+        // Remove duplicates
+        while (st.count(nums[right])) {
+            st.erase(nums[left]);
+            currSum -= nums[left];
+            left++;
         }
 
-        int maxsum = windowsum;
+        // Add current element
+        st.insert(nums[right]);
+        currSum += nums[right];
 
-        for(int i = k;i<n;i++){
-            windowsum += nums[i];
-            windowsum -= nums[i-k];
+        // Check window size
+        if (right - left + 1 == k) {
+            maxSum = max(maxSum, currSum);
 
-            maxsum = max(maxsum,windowsum);
+            // Slide window
+            st.erase(nums[left]);
+            currSum -= nums[left];
+            left++;
         }
+    }
 
-        return maxsum;
+    return maxSum;
     }
 };
