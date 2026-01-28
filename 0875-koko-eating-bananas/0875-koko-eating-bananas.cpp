@@ -1,6 +1,6 @@
 class Solution {
 public:
-      bool func(int mid, vector<int>piles,int h){
+    bool func(int mid, vector<int>piles,int h){
         long long hours = 0;
         for(int i = 0;i<piles.size();i++){
             hours += ceil((double)piles[i]/mid);
@@ -27,5 +27,6 @@ public:
             }
         }
         return ans;
+  
     }
 };
