@@ -1,32 +1,35 @@
 class Solution {
 public:
-    bool func(int mid, vector<int>piles,int h){
+    bool func(int mid,vector<int> piles, int h){
         long long hours = 0;
         for(int i = 0;i<piles.size();i++){
-            hours += ceil((double)piles[i]/mid);
+            hours += (piles[i]+ mid -1)/mid;
         }
-        if(hours<= h){
+        if(hours <= h){
             return true;
         }
-        return false; 
 
-      }  
+            return false;
+        
+    }
 
     int minEatingSpeed(vector<int>& piles, int h) {
         int low = 1;
-        int high = 1e9;
+        int high = *max_element(piles.begin(), piles.end());
         int ans = -1;
+
         while(low <= high){
-            int mid = (low + high) /2;
+            int mid = (low + high)/2;
+
             if(func(mid,piles,h)){
                 ans = mid;
-                high = mid-1;
+                high = mid -1;
             }
             else{
-                low = mid+1;
+                low = mid + 1;
             }
         }
+
         return ans;
-  
     }
 };
