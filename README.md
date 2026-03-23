@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ajatshatrusingh23/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ajatshatrusingh23/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajatshatrusingh23/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1544-make-the-string-great](https://github.com/ajatshatrusingh23/leetcode/tree/main/1544-make-the-string-great/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/ajatshatrusingh23/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0844-backspace-string-compare](https://github.com/ajatshatrusingh23/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajatshatrusingh23/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1544-make-the-string-great](https://github.com/ajatshatrusingh23/leetcode/tree/main/1544-make-the-string-great/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
