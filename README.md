@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ajatshatrusingh23/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,8 +105,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ajatshatrusingh23/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ajatshatrusingh23/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
