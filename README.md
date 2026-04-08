@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/ajatshatrusingh23/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajatshatrusingh23/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1544-make-the-string-great](https://github.com/ajatshatrusingh23/leetcode/tree/main/1544-make-the-string-great/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/ajatshatrusingh23/leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ajatshatrusingh23/leetcode/tree/main/0015-3sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/ajatshatrusingh23/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ajatshatrusingh23/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/ajatshatrusingh23/leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
