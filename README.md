@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ajatshatrusingh23/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ajatshatrusingh23/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajatshatrusingh23/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ajatshatrusingh23/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajatshatrusingh23/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1544-make-the-string-great](https://github.com/ajatshatrusingh23/leetcode/tree/main/1544-make-the-string-great/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajatshatrusingh23/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ajatshatrusingh23/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ajatshatrusingh23/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajatshatrusingh23/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ajatshatrusingh23/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/ajatshatrusingh23/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
@@ -119,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajatshatrusingh23/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ajatshatrusingh23/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ajatshatrusingh23/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
