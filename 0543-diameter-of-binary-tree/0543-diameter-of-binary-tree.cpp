@@ -11,19 +11,21 @@
  */
 class Solution {
 public:
-    int calc(TreeNode* root,int& diameter){
-        if(!root) return 0;
-        int left = calc(root->left,diameter);
-        int right = calc(root->right,diameter);
+    int helper(TreeNode* root,int &sum){
+        if(root == NULL) return 0;
+        int  left = helper(root->left,sum);
+        int  right = helper(root->right,sum);
 
-        diameter = max(diameter,left+right);
+        sum = max(sum,left+right);
 
-        return 1+max(left,right);
+        return max(left,right)+1;
+        
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        int diameter = 0;
-        calc(root,diameter);
-        return diameter;
+        int sum = 0;
+        helper(root,sum);
+
+        return sum; 
     }
 };
