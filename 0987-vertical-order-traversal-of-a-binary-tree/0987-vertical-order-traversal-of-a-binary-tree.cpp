@@ -11,46 +11,41 @@
  */
 class Solution {
 public:
+
+    map<int, vector<pair<int,int>>>coltable;
+
+    void inorder(TreeNode* root,int row, int col){
+        if(root == NULL) return;
+
+        inorder(root->left,row+1,col-1);
+
+        coltable[col].push_back({row,root->val});
+
+        inorder(root->right,row+1,col+1);
+    }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        map<int , vector<pair<int,int>>>colTable;
+        inorder(root,0,0);
 
-        queue<pair <TreeNode*, pair<int,int>>> q;
+        vector<vector<int>>result;
 
-        q.push({root,{0,0}});
+        for(auto &[col,nodes]: coltable){
 
-        while(!q.empty()){
-            auto front = q.front();
-
-            q.pop();
-
-            TreeNode* node = front.first;
-
-            int row = front.second.first;
-
-            int col = front.second.second;
-
-            colTable[col].push_back({row,node->val});
-
-            if(node->left) q.push({node->left,{row+1,col-1}});
-
-            if(node->right) q.push({node->right,{row+1,col+1}});
-
-
-        }
-
-        vector<vector<int>> result;
-
-        for(auto&[col,nodes] : colTable){
             sort(nodes.begin(),nodes.end());
 
-            vector<int> colValues;
+            vector<int>temp;
 
-            for(auto& [row,val] : nodes)
-                colValues.push_back(val);
+            for(auto &[row,val]:nodes){
 
-            result.push_back(colValues);
+                temp.push_back(val);
+            }
+
+            result.push_back(temp);
         }
 
         return result;
+
+
+
+
     }
 };
