@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ajatshatrusingh23/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/ajatshatrusingh23/leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0066-plus-one](https://github.com/ajatshatrusingh23/leetcode/tree/main/0066-plus-one/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/ajatshatrusingh23/leetcode/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/ajatshatrusingh23/leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/ajatshatrusingh23/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ajatshatrusingh23/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ajatshatrusingh23/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ajatshatrusingh23/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
