@@ -11,16 +11,16 @@
  */
 class Solution {
 public:
-    bool isSame(TreeNode* p,TreeNode* q){
-          if(p== nullptr && q == nullptr) return true;
-        if(p == nullptr || q == nullptr) return false;
-        if(p ->val != q->val) return false;
-        return isSame(p->left,q->right) && isSame(p->right,q->left);
+    bool issame(TreeNode* p,TreeNode* q){
+        if(p == NULL && q == NULL) return true;
+        if(p == NULL || q == NULL) return false;
+        if(p->val != q->val) return false;
+
+        return issame(p->left,q->right) && issame(p->right,q->left);
     }
 
     bool isSymmetric(TreeNode* root) {
-        if(root == NULL) return true;
-        return isSame(root->left,root->right);
-        
+        if(!root) return false;
+        return issame(root->left,root->right);
     }
 };
