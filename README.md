@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/ajatshatrusingh23/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/ajatshatrusingh23/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/ajatshatrusingh23/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/ajatshatrusingh23/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ajatshatrusingh23/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/ajatshatrusingh23/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/ajatshatrusingh23/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajatshatrusingh23/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ajatshatrusingh23/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/ajatshatrusingh23/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ajatshatrusingh23/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ajatshatrusingh23/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/ajatshatrusingh23/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ajatshatrusingh23/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -207,4 +211,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ajatshatrusingh23/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ajatshatrusingh23/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
