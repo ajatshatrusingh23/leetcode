@@ -1,34 +1,34 @@
 class Solution {
 public:
-    void DFS(vector<vector<int>>& image,int i,int j,int r,int c, int& oldcolor,int& newcolor){
-        if(i == r || j == c || i<0 || j< 0|| image[i][j] != oldcolor || image[i][j] == newcolor){
-            return;
-        }
-        image[i][j] = newcolor;
+    void dfs(int i , int j , vector<vector<int>>& image , int n , int m , int original, int color){
 
-        DFS(image,i,j+1,r,c,oldcolor,newcolor);
-        DFS(image,i-1,j,r,c,oldcolor,newcolor);
-        DFS(image,i,j-1,r,c,oldcolor,newcolor);
-        DFS(image,i+1,j,r,c,oldcolor,newcolor);
+        if(i < 0 || j< 0 || i>= n || j>= m )
+            return;
+
+        if(image[i][j] != original)
+            return;
+        
+        image[i][j] = color;
+
+        dfs(i+1 , j , image ,n,m ,original, color );
+          dfs(i-1 , j , image ,n , m,original , color );
+           dfs(i , j+1 , image ,n, m, original, color );
+            dfs(i , j-1 , image ,n,m, original, color );
     }
 
-
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int r = image.size();
-        int c= image[0].size();
-        
+        int n = image.size();
+        int m = image[0].size();
 
-        int oldcolor = image[sr][sc];
-        int newcolor = color;
+        int original = image[sr][sc];
 
-        
+        if(original == color)
+            return image;
 
-        DFS(image,sr,sc,r,c,oldcolor,newcolor);
+        dfs(sr,sc,image,n,m,original,color);       
+ 
 
         return image;
-
-
-
 
     }
 };
