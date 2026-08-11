@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/ajatshatrusingh23/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/ajatshatrusingh23/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ajatshatrusingh23/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0392-is-subsequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ajatshatrusingh23/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajatshatrusingh23/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/ajatshatrusingh23/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajatshatrusingh23/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/ajatshatrusingh23/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0392-is-subsequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ajatshatrusingh23/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ajatshatrusingh23/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0392-is-subsequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/ajatshatrusingh23/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
