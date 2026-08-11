@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ajatshatrusingh23/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajatshatrusingh23/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1544-make-the-string-great](https://github.com/ajatshatrusingh23/leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/ajatshatrusingh23/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/ajatshatrusingh23/leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajatshatrusingh23/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/ajatshatrusingh23/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ajatshatrusingh23/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/ajatshatrusingh23/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/ajatshatrusingh23/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
