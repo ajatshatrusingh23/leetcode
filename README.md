@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/ajatshatrusingh23/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/ajatshatrusingh23/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0200-number-of-islands](https://github.com/ajatshatrusingh23/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/ajatshatrusingh23/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ajatshatrusingh23/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0733-flood-fill](https://github.com/ajatshatrusingh23/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ajatshatrusingh23/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajatshatrusingh23/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/ajatshatrusingh23/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0542-01-matrix](https://github.com/ajatshatrusingh23/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/ajatshatrusingh23/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ajatshatrusingh23/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/ajatshatrusingh23/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0542-01-matrix](https://github.com/ajatshatrusingh23/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/ajatshatrusingh23/leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ajatshatrusingh23/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/ajatshatrusingh23/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/ajatshatrusingh23/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/ajatshatrusingh23/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Longest Common Subsequence
