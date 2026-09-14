@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/ajatshatrusingh23/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/ajatshatrusingh23/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/ajatshatrusingh23/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [3871-count-commas-in-range-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
