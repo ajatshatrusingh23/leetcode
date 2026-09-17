@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/ajatshatrusingh23/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/ajatshatrusingh23/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/ajatshatrusingh23/leetcode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ajatshatrusingh23/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0200-number-of-islands](https://github.com/ajatshatrusingh23/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ajatshatrusingh23/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/ajatshatrusingh23/leetcode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/ajatshatrusingh23/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -291,4 +293,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/ajatshatrusingh23/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/ajatshatrusingh23/leetcode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
