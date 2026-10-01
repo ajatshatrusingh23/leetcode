@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/ajatshatrusingh23/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0076-minimum-window-substring](https://github.com/ajatshatrusingh23/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/ajatshatrusingh23/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/ajatshatrusingh23/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/ajatshatrusingh23/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ajatshatrusingh23/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ajatshatrusingh23/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/ajatshatrusingh23/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajatshatrusingh23/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/ajatshatrusingh23/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ajatshatrusingh23/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0542-01-matrix](https://github.com/ajatshatrusingh23/leetcode/tree/main/0542-01-matrix/) | Medium |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/ajatshatrusingh23/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/ajatshatrusingh23/leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/ajatshatrusingh23/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
