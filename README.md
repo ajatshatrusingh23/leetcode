@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ajatshatrusingh23/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/ajatshatrusingh23/leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0060-permutation-sequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/ajatshatrusingh23/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/ajatshatrusingh23/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ajatshatrusingh23/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0060-permutation-sequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
