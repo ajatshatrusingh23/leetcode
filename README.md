@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ajatshatrusingh23/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0881-boats-to-save-people](https://github.com/ajatshatrusingh23/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ajatshatrusingh23/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0912-sort-an-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ajatshatrusingh23/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajatshatrusingh23/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/ajatshatrusingh23/leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ajatshatrusingh23/leetcode/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/ajatshatrusingh23/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ajatshatrusingh23/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0912-sort-an-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -252,14 +254,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/ajatshatrusingh23/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/ajatshatrusingh23/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/ajatshatrusingh23/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0912-sort-an-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ajatshatrusingh23/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0912-sort-an-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ajatshatrusingh23/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0912-sort-an-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,4 +323,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/ajatshatrusingh23/leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
