@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/ajatshatrusingh23/leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ajatshatrusingh23/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0200-number-of-islands](https://github.com/ajatshatrusingh23/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ajatshatrusingh23/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ajatshatrusingh23/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajatshatrusingh23/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ajatshatrusingh23/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/ajatshatrusingh23/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/ajatshatrusingh23/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
