@@ -2,16 +2,18 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
         unordered_map<int,int>freq;
+        int ans;
 
-        for(int val: nums){
-            freq[val]++;
+        for(int i = 0;i<nums.size();i++){
+            freq[nums[i]]++;
         }
 
         for(auto it:freq){
             if(it.second == 1){
-                return it.first;
+                ans = it.first;
             }
         }
-        return 0;
+
+        return ans;
     }
 };
