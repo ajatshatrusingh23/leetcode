@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/ajatshatrusingh23/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ajatshatrusingh23/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/ajatshatrusingh23/leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/ajatshatrusingh23/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/ajatshatrusingh23/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ajatshatrusingh23/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/ajatshatrusingh23/leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/ajatshatrusingh23/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0542-01-matrix](https://github.com/ajatshatrusingh23/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/ajatshatrusingh23/leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -355,12 +357,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ajatshatrusingh23/leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/ajatshatrusingh23/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ajatshatrusingh23/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ajatshatrusingh23/leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ajatshatrusingh23/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
