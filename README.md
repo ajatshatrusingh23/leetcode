@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/ajatshatrusingh23/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ajatshatrusingh23/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ajatshatrusingh23/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ajatshatrusingh23/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/ajatshatrusingh23/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ajatshatrusingh23/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ajatshatrusingh23/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ajatshatrusingh23/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/ajatshatrusingh23/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ajatshatrusingh23/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ajatshatrusingh23/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
