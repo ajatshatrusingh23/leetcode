@@ -2,52 +2,49 @@ class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
         int n = grid.size();
-    if (n == 0)
-        return -1;
-    int m = grid[0].size();
+        int m = grid[0].size();
 
-  
-    if (grid[0][0] != 0 || grid[n - 1][m - 1] != 0)
-        return -1;
- 
-    const vector<pair<int, int>> directions = {
-        {-1, -1}, {-1, 0}, {-1, 1},
-        { 0, -1},          { 0, 1},
-        { 1, -1}, { 1, 0}, { 1, 1}
-    };
+        if(grid[0][0] == 1 || grid[n-1][n-1] == 1){
+                return -1;
+        }
 
-     
-    queue<pair<int, int>> q;
-    grid[0][0] = 1;   
-    q.push({0, 0});
+        queue<pair<int,pair<int,int>>>q;
 
-    
-    while (!q.empty()) {
-        auto [row, col] = q.front();
-        q.pop();
+        q.push({1,{0,0}});
+         
 
-        int distance = grid[row][col];
+        vector<vector<int>>dist(n,vector<int>(m,1e9));
+            dist[0][0] = 1;
+        int dr[] = {-1,-1,-1,0,0,1,1,1};
+        int dc[] = {-1,0,1,-1,1,-1,0,1};
 
-        
-        if (row == n - 1 && col == m - 1)
-            return distance;
+        while(!q.empty()){
+            auto it = q.front();
+            q.pop();
+            int dis = it.first;
 
-       
-        for (const auto& [dr, dc] : directions) {
-            int newRow = row + dr;
-            int newCol = col + dc;
+            int r = it.second.first;
+            int c = it.second.second;
 
-            
-            if (newRow >= 0 && newRow < n &&
-                newCol >= 0 && newCol < m &&
-                grid[newRow][newCol] == 0) {
-                    
-                q.push({newRow, newCol});
-                grid[newRow][newCol] = distance + 1;    
+            if(r == n-1 && c == m-1) {
+            return dis;
             }
+
+            for(int i = 0;i<8;i++){
+                int row = r + dr[i];
+                int col = c + dc[i];
+            if(row >= 0 && row < n && col >= 0 && col < m && grid[row][col] == 0 && dis +1 < dist[row][col] ){
+
+                dist[row][col] = 1 + dis;
+                    if(row == n-1 && col == m-1){
+                         return dis + 1;
+                     }
+                q.push({1+dis,{row,col}});
+            }
+        
         }
     }
-
+        
     return -1;
 
     }
