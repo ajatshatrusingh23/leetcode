@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/ajatshatrusingh23/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ajatshatrusingh23/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ajatshatrusingh23/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/ajatshatrusingh23/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/ajatshatrusingh23/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/ajatshatrusingh23/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/ajatshatrusingh23/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/ajatshatrusingh23/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ajatshatrusingh23/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ajatshatrusingh23/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/ajatshatrusingh23/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ajatshatrusingh23/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0912-sort-an-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/ajatshatrusingh23/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/ajatshatrusingh23/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ajatshatrusingh23/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/ajatshatrusingh23/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ajatshatrusingh23/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/ajatshatrusingh23/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ajatshatrusingh23/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/ajatshatrusingh23/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/ajatshatrusingh23/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ajatshatrusingh23/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ajatshatrusingh23/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/ajatshatrusingh23/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,4 +400,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/ajatshatrusingh23/leetcode/tree/main/0127-word-ladder/) | Hard |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/ajatshatrusingh23/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
