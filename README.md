@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/ajatshatrusingh23/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0542-01-matrix](https://github.com/ajatshatrusingh23/leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ajatshatrusingh23/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ajatshatrusingh23/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/ajatshatrusingh23/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ajatshatrusingh23/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/ajatshatrusingh23/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ajatshatrusingh23/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/ajatshatrusingh23/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ajatshatrusingh23/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/ajatshatrusingh23/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ajatshatrusingh23/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajatshatrusingh23/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ajatshatrusingh23/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ajatshatrusingh23/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0912-sort-an-array](https://github.com/ajatshatrusingh23/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ajatshatrusingh23/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Merge Sort
@@ -375,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/ajatshatrusingh23/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ajatshatrusingh23/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/ajatshatrusingh23/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ajatshatrusingh23/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/ajatshatrusingh23/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ajatshatrusingh23/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
@@ -404,4 +409,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/ajatshatrusingh23/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ajatshatrusingh23/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
