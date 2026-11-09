@@ -1,7 +1,7 @@
 class Solution {
 public:
     void dfs(int i, int j ,vector<vector<int>>& image , int n ,int m, int color , int oldcolor){
-        if(i<0 || j<0 || i == n || j ==  m || image[i][j] != oldcolor || image[i][j] == color )
+        if(i<0 || j<0 || i ==n  || j == m || image[i][j] != oldcolor || image[i][j] == color )
             return ;
 
         image[i][j] = color;
