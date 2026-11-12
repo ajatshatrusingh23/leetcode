@@ -11,21 +11,21 @@
  */
 class Solution {
 public:
-    int helper(TreeNode* root,int &sum){
-        if(root == NULL) return 0;
-        int  left = helper(root->left,sum);
-        int  right = helper(root->right,sum);
+    int height(TreeNode* root , int & diameter){
+        if(!root) return 0;
 
-        sum = max(sum,left+right);
+        int lh = height(root->left,diameter);
+        int rh = height(root->right,diameter);
 
-        return max(left,right)+1;
-        
+        diameter = max(diameter,lh+rh);
+
+        return 1+max(lh,rh);
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        int sum = 0;
-        helper(root,sum);
+        int diameter = 0;
 
-        return sum; 
+        height(root,diameter);
+        return diameter;
     }
 };
