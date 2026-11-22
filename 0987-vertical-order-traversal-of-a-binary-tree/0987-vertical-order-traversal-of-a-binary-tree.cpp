@@ -12,49 +12,43 @@
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        map<int,vector<pair<int,int>>>coltabel;
+        map<int,map<int,multiset<int>>>nodes;
+        queue<pair<TreeNode*,pair<int,int>>>todo;
 
-        queue<pair<TreeNode*,pair<int,int>>>q;
+        if (root == nullptr) return {};
 
-        q.push({root,{0,0}});
+        todo.push({root, {0, 0}});
 
-        while(!q.empty()){
-            auto front = q.front();
-            q.pop();
+        while(!todo.empty()){
+            auto p = todo.front();
+            todo.pop();
 
-            TreeNode* node = front.first;
+            TreeNode* node = p.first;
 
-            int row = front.second.first;
-            int col = front.second.second;
+            int x = p.second.first , y = p.second.second;
 
-            coltabel[col].push_back({row,node->val});
+            nodes[x][y].insert(node->val);
 
-            if(node->left) q.push({node->left,{row+1,col-1}});
+            if(node -> left) {
+                todo.push({node->left , {x-1,y+1}});
 
-            if(node->right) q.push({node->right,{row+1,col+1}});
-
-
-        }
-
-        vector<vector<int>>result;
-
-        for(auto &[col,nodes]: coltabel){
-            sort(nodes.begin(),nodes.end());
-
-            vector<int>temp;
-
-            for(auto &[row,val]:nodes){
-                temp.push_back(val);
             }
-
-            result.push_back(temp);
+            if(node -> right){
+                todo.push({node->right , {x+1 , y+1}});
+            }
         }
 
-        return result;
+        vector<vector<int>>ans;
 
+        for(auto p: nodes){
+            vector<int>col;
 
+            for(auto q: p.second){
+                col.insert(col.end(), q.second.begin() , q.second.end());
+            }
+            ans.push_back(col);
+        }
 
-
-
+        return ans;
     }
 };
