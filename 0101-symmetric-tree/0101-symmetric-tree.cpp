@@ -11,30 +11,22 @@
  */
 class Solution {
 public:
-    bool helper(TreeNode* p, TreeNode* q){
-        if(p == NULL && q == NULL) return true ;
-        if(p == NULL || q == NULL) return false;
+    bool helper(TreeNode* p , TreeNode* q){
+
+        if(p == NULL && q == NULL) return true;
+        if(p == NULL || q == NULL ) return false;
         if(p->val != q->val) return false;
 
-        return helper(p->left,q->right) && helper(q->left,p->right);
-
-
-
+        return helper(p->left,q->right) && helper(p->right,q->left);
 
     }
 
-
     bool isSymmetric(TreeNode* root) {
-         if(root == NULL) return false;
+        if(root == NULL) return false;
 
-         return helper(root->left,root->right);
-            
-          
-
-       
-
-
-
-
+        if(helper(root->left,root->right)){
+            return true;
+        }
+        return false;
     }
 };
